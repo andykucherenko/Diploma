@@ -1,0 +1,7 @@
+
+U
+java:S1118 ":Add a private constructor to hide the implicit public one.(Û·Çªùÿÿÿÿ
+T
+java:S1172l"9Remove these unused method parameters "matcher", "index".(†Ÿ¼Øøÿÿÿÿ
+œ
+java:S1186o"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—çë¤úÿÿÿÿ
