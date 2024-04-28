@@ -1,0 +1,157 @@
+{
+    "name": "filteringNewsNoCategoryPositive",
+    "start": 1679301777903,
+    "stop": 1679301789695,
+    "stage": "finished",
+    "description": "Фильтрация новостей без указания категории, во вкладке Новости мобильного приложения Мобильный хоспис (Позитивный)",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301781310,
+            "stop": 1679301781310,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Главное меню",
+            "start": 1679301784431,
+            "stop": 1679301784431,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Новости на главной странице мобильного приложения",
+            "start": 1679301787122,
+            "stop": 1679301787122,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Фильтровать Новости",
+            "start": 1679301787694,
+            "stop": 1679301787694,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Фильтровать Новости",
+            "start": 1679301788075,
+            "stop": 1679301788075,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбрать категорию для фильтрации новостей",
+            "start": 1679301788366,
+            "stop": 1679301788367,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "0775bdf7-3f4c-4d29-a0c6-3e0bdc9cf0b6",
+    "historyId": "76dd06ec7b1324120c2f8a907ee3de61",
+    "fullName": "ru.netology.qa.tests.NewsTest.filteringNewsNoCategoryPositive",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.netology.qa.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.netology.qa.tests.NewsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "filteringNewsNoCategoryPositive"
+        },
+        {
+            "name": "suite",
+            "value": "ru.netology.qa.tests.NewsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC - 50"
+        },
+        {
+            "name": "epic",
+            "value": "Тест-кейсы для проведения функционального тестирования вкладки Новости мобильного приложения Мобильный хоспис"
+        }
+    ]
+}

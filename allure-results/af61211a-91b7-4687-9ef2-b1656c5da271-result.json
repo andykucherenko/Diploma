@@ -1,0 +1,189 @@
+{
+    "name": "applicationFilteringExecuted",
+    "start": 1679301353320,
+    "stop": 1679301366024,
+    "stage": "finished",
+    "description": " Фильтрация заявок по критерию Выполнена во вкладке Заявки мобильного приложения Мобильный хоспис (Позитивный)",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301356742,
+            "stop": 1679301356742,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Главное меню",
+            "start": 1679301359883,
+            "stop": 1679301359883,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Заявки",
+            "start": 1679301362539,
+            "stop": 1679301362540,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Фильтрация",
+            "start": 1679301363208,
+            "stop": 1679301363208,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Снять флажок с чекбокса Открыта",
+            "start": 1679301363609,
+            "stop": 1679301363609,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Снять флажок с чекбокса В работе",
+            "start": 1679301363924,
+            "stop": 1679301363924,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбрать критерий для фильтрации Выполнена",
+            "start": 1679301364308,
+            "stop": 1679301364308,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать кнопку ОК",
+            "start": 1679301364710,
+            "stop": 1679301364710,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "af61211a-91b7-4687-9ef2-b1656c5da271",
+    "historyId": "6d5d4435cd84db2a221a77e1beefc0db",
+    "fullName": "ru.netology.qa.tests.ClaimsTest.applicationFilteringExecuted",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.netology.qa.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.netology.qa.tests.ClaimsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "applicationFilteringExecuted"
+        },
+        {
+            "name": "suite",
+            "value": "ru.netology.qa.tests.ClaimsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC - 16"
+        },
+        {
+            "name": "epic",
+            "value": "Тест-кейсы для проведения функционального тестирования вкладки Заявки мобильного приложения Мобильный хоспис"
+        }
+    ]
+}

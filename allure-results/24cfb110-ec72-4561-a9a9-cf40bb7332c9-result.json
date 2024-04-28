@@ -1,0 +1,269 @@
+{
+    "name": "customCategoryName",
+    "start": 1679301579577,
+    "stop": 1679301592081,
+    "stage": "finished",
+    "description": "Ввод в поле Категория собственного названия категории, при создании новости, во вкладке Панель управления мобильного приложения Мобильный хоспис (Негативный)",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301579994,
+            "stop": 1679301579994,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Главное меню",
+            "start": 1679301583216,
+            "stop": 1679301583216,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Новости на главной странице мобильного приложения",
+            "start": 1679301585807,
+            "stop": 1679301585807,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Панель управления",
+            "start": 1679301586107,
+            "stop": 1679301586107,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Добавить новость",
+            "start": 1679301586662,
+            "stop": 1679301586662,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввести в поле Категория собственное название категории",
+            "start": 1679301587091,
+            "stop": 1679301587091,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввести в поле Заголовок заголовок новости",
+            "start": 1679301587964,
+            "stop": 1679301587964,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "В поле Дата публикации выбрать дату по календарю",
+            "start": 1679301588761,
+            "stop": 1679301588761,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать кнопку ОК Дата",
+            "start": 1679301589378,
+            "stop": 1679301589378,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "В поле Время выбрать время",
+            "start": 1679301589747,
+            "stop": 1679301589747,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать кнопку ОК Время",
+            "start": 1679301590153,
+            "stop": 1679301590153,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввести в поле Описание описание новости",
+            "start": 1679301590508,
+            "stop": 1679301590508,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Сохранить новость",
+            "start": 1679301590532,
+            "stop": 1679301590532,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "24cfb110-ec72-4561-a9a9-cf40bb7332c9",
+    "historyId": "337f510fbfd4399d2b7cf907789fa8c8",
+    "fullName": "ru.netology.qa.tests.NewsControlPanelTest.customCategoryName",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.netology.qa.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.netology.qa.tests.NewsControlPanelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "customCategoryName"
+        },
+        {
+            "name": "suite",
+            "value": "ru.netology.qa.tests.NewsControlPanelTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC - 67"
+        },
+        {
+            "name": "epic",
+            "value": "Тест-кейсы для проведения функционального тестирования Панели Управления Новостей мобильного приложения Мобильный хоспис"
+        }
+    ]
+}

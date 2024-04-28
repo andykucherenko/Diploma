@@ -1,0 +1,93 @@
+{
+    "name": "buttonAllClaims",
+    "start": 1679301534119,
+    "stop": 1679301538844,
+    "stage": "finished",
+    "description": "Переход во вкладку \"Все Заявки\" через главное меню мобильного приложения \"Мобильный хоспис\"(Позитивный)",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301534509,
+            "stop": 1679301534509,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку ВСЕ ЗАЯВКИ",
+            "start": 1679301537713,
+            "stop": 1679301537713,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ca95041b-ce25-46cf-88e7-a37b4a5acd54",
+    "historyId": "2ff339bac9f9188b923639f7afd43128",
+    "fullName": "ru.netology.qa.tests.MainTest.buttonAllClaims",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.netology.qa.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.netology.qa.tests.MainTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "buttonAllClaims"
+        },
+        {
+            "name": "suite",
+            "value": "ru.netology.qa.tests.MainTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC - 13"
+        },
+        {
+            "name": "epic",
+            "value": "Тест-кейсы для проведения функционального тестирования вкладки Главная мобильного приложения Мобильный хоспис"
+        }
+    ]
+}

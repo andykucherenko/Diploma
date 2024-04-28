@@ -1,0 +1,141 @@
+{
+    "name": "passwordFieldLettersOfDifferentCase",
+    "start": 1679301275007,
+    "stop": 1679301282724,
+    "stage": "finished",
+    "description": "Поле Пароль состоит из букв разного регистра, при авторизации, в мобильном приложении Мобильный хоспис (Негативный)",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301275561,
+            "stop": 1679301275561,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301278582,
+            "stop": 1679301278582,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "В поле Логин ввести: login2",
+            "start": 1679301281606,
+            "stop": 1679301281606,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввести в поле Пароль буквы разного регистра",
+            "start": 1679301281659,
+            "stop": 1679301281659,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Войти",
+            "start": 1679301281680,
+            "stop": 1679301281680,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "31009a30-78f7-4a12-9e98-6a3807f7684e",
+    "historyId": "8be882c9e9342d126edd381d8741831a",
+    "fullName": "ru.netology.qa.tests.AuthorizationTests.passwordFieldLettersOfDifferentCase",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.netology.qa.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.netology.qa.tests.AuthorizationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "passwordFieldLettersOfDifferentCase"
+        },
+        {
+            "name": "suite",
+            "value": "ru.netology.qa.tests.AuthorizationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC - 11"
+        },
+        {
+            "name": "epic",
+            "value": "Тест-кейсы для проведения функционального тестирования вкладки Авторизация"
+        }
+    ]
+}

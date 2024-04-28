@@ -1,0 +1,141 @@
+{
+    "name": "sortingNewsControlPanel",
+    "start": 1679301729855,
+    "stop": 1679301739990,
+    "stage": "finished",
+    "description": "Сортировка новостей во вкладке Панель управления мобильного приложения Мобильный хоспис (Позитивный)",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301732064,
+            "stop": 1679301732064,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Главное меню",
+            "start": 1679301735240,
+            "stop": 1679301735240,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Новости на главной странице мобильного приложения",
+            "start": 1679301737823,
+            "stop": 1679301737823,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Панель управления",
+            "start": 1679301738446,
+            "stop": 1679301738446,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку сортировки новостей",
+            "start": 1679301738890,
+            "stop": 1679301738890,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "30035696-1b91-48d1-891d-74e717c64f95",
+    "historyId": "f403282640087a92c5accfdc3219fcd6",
+    "fullName": "ru.netology.qa.tests.NewsControlPanelTest.sortingNewsControlPanel",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.netology.qa.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.netology.qa.tests.NewsControlPanelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "sortingNewsControlPanel"
+        },
+        {
+            "name": "suite",
+            "value": "ru.netology.qa.tests.NewsControlPanelTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC - 54"
+        },
+        {
+            "name": "epic",
+            "value": "Тест-кейсы для проведения функционального тестирования Панели Управления Новостей мобильного приложения Мобильный хоспис"
+        }
+    ]
+}

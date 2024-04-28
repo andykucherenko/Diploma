@@ -1,0 +1,215 @@
+{
+  "name": "titleFieldMaximumCharacters",
+  "start": 1679301366072,
+  "stop": 1679301379066,
+  "stage": "finished",
+  "description": "Поле Тема состоит из максимально-допустимого количество символов, при создании заявки, во вкладке Заявки мобильного приложения Мобильный хоспис (Негативный)",
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Отобразилаcь страница Авторизации",
+      "start": 1679301368393,
+      "stop": 1679301368393,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Главное меню",
+      "start": 1679301371513,
+      "stop": 1679301371513,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Заявки",
+      "start": 1679301374190,
+      "stop": 1679301374190,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Создание Заявки",
+      "start": 1679301374856,
+      "stop": 1679301374856,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести в поле Тема максимально-допустимое количество символов",
+      "start": 1679301375231,
+      "stop": 1679301375231,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "В поле Исполнитель выбрать из списка ФИО исполнителя",
+      "start": 1679301375278,
+      "stop": 1679301375278,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на поле Дата",
+      "start": 1679301375316,
+      "stop": 1679301375316,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать кнопку ОК",
+      "start": 1679301376244,
+      "stop": 1679301376244,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на поле Время",
+      "start": 1679301376657,
+      "stop": 1679301376658,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать кнопку ОК",
+      "start": 1679301377326,
+      "stop": 1679301377326,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести в поле Описание описание заявки",
+      "start": 1679301377757,
+      "stop": 1679301377757,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Сохранить",
+      "start": 1679301377778,
+      "stop": 1679301377778,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "2a77158a-c9ba-4b03-b905-3aefd61f91a3",
+  "historyId": "2acd5159f80ac7703a27838a60b99da8",
+  "fullName": "ru.netology.qa.tests.ClaimsTest.titleFieldMaximumCharacters",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.netology.qa.tests"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.netology.qa.tests.ClaimsTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "titleFieldMaximumCharacters"
+    },
+    {
+      "name": "suite",
+      "value": "ru.netology.qa.tests.ClaimsTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "story",
+      "value": "TC - 21"
+    },
+    {
+      "name": "epic",
+      "value": "Тест-кейсы для проведения функционального тестирования вкладки Заявки мобильного приложения Мобильный хоспис"
+    }
+  ]
+}

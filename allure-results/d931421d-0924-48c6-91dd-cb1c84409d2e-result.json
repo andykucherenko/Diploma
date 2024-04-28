@@ -1,0 +1,141 @@
+{
+    "name": "loginFieldIsEmpty",
+    "start": 1679301208593,
+    "stop": 1679301216236,
+    "stage": "finished",
+    "description": "Поле Логин пустое, при авторизации, в мобильном приложении Мобильный хоспис (Негативный)",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301209044,
+            "stop": 1679301209044,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301212062,
+            "stop": 1679301212062,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Поле Логин оставить пустым",
+            "start": 1679301215079,
+            "stop": 1679301215079,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "В поле Пароль ввести: password2",
+            "start": 1679301215111,
+            "stop": 1679301215111,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Войти",
+            "start": 1679301215151,
+            "stop": 1679301215151,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "d931421d-0924-48c6-91dd-cb1c84409d2e",
+    "historyId": "a781f393a0e51270913494de8a19d361",
+    "fullName": "ru.netology.qa.tests.AuthorizationTests.loginFieldIsEmpty",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.netology.qa.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.netology.qa.tests.AuthorizationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "loginFieldIsEmpty"
+        },
+        {
+            "name": "suite",
+            "value": "ru.netology.qa.tests.AuthorizationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC - 2"
+        },
+        {
+            "name": "epic",
+            "value": "Тест-кейсы для проведения функционального тестирования вкладки Авторизация"
+        }
+    ]
+}

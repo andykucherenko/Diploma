@@ -1,0 +1,124 @@
+{
+  "name": "passwordFieldUnregisteredUser",
+  "start": 1679301216295,
+  "stop": 1679301224003,
+  "stage": "finished",
+  "description": "Поле Пароль заполнено данными незарегистрированного пользователя, при авторизации, в мобильном приложении Мобильный хоспис (Негативный)",
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Отобразилаcь страница Авторизации",
+      "start": 1679301216679,
+      "stop": 1679301216679,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Отобразилаcь страница Авторизации",
+      "start": 1679301219722,
+      "stop": 1679301219722,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "В поле Логин ввести: login2",
+      "start": 1679301222828,
+      "stop": 1679301222828,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести в поле Пароль данные незарегистрированного пользователя",
+      "start": 1679301222893,
+      "stop": 1679301222893,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Войти",
+      "start": 1679301222924,
+      "stop": 1679301222924,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "61f5c986-f438-4ee1-8dac-e84b1373d036",
+  "historyId": "96dfa67fac6b5bcc0e33be8117fa9cb2",
+  "fullName": "ru.netology.qa.tests.AuthorizationTests.passwordFieldUnregisteredUser",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.netology.qa.tests"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.netology.qa.tests.AuthorizationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "passwordFieldUnregisteredUser"
+    },
+    {
+      "name": "suite",
+      "value": "ru.netology.qa.tests.AuthorizationTests"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "story",
+      "value": "TC - 8"
+    },
+    {
+      "name": "epic",
+      "value": "Тест-кейсы для проведения функционального тестирования вкладки Авторизация"
+    }
+  ]
+}

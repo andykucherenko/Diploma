@@ -1,0 +1,150 @@
+{
+  "name": "filterNewsByCriterionActive",
+  "start": 1679301694403,
+  "stop": 1679301703189,
+  "stage": "finished",
+  "description": "Фильтрация новостей по критерию Активна, во вкладке Панель управления новостей мобильного приложения Мобильный хоспис (Позитивный)",
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Отобразилаcь страница Авторизации",
+      "start": 1679301695080,
+      "stop": 1679301695080,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Главное меню",
+      "start": 1679301698248,
+      "stop": 1679301698248,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Новости на главной странице мобильного приложения",
+      "start": 1679301700793,
+      "stop": 1679301700793,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Панель управления",
+      "start": 1679301701073,
+      "stop": 1679301701073,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Фильтровать Новости",
+      "start": 1679301701442,
+      "stop": 1679301701442,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Снять флажок с чекбокса Активная",
+      "start": 1679301701856,
+      "stop": 1679301701856,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Фильтровать",
+      "start": 1679301702157,
+      "stop": 1679301702157,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "c48eb6cd-90a5-4f71-a048-5a98cbbcd17c",
+  "historyId": "89ef32637841d7db70f4af14fcc0358f",
+  "fullName": "ru.netology.qa.tests.NewsControlPanelTest.filterNewsByCriterionActive",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.netology.qa.tests"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.netology.qa.tests.NewsControlPanelTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "filterNewsByCriterionActive"
+    },
+    {
+      "name": "suite",
+      "value": "ru.netology.qa.tests.NewsControlPanelTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "story",
+      "value": "TC - 59"
+    },
+    {
+      "name": "epic",
+      "value": "Тест-кейсы для проведения функционального тестирования Панели Управления Новостей мобильного приложения Мобильный хоспис"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "name": "filteringNewsCertainPeriodTime",
+  "start": 1679301789785,
+  "stop": 1679301803016,
+  "stage": "finished",
+  "description": "Фильтрация новостей, без указания категории, в определенный период времени, во вкладке Новости мобильного приложения Мобильный хоспис (Позитивный)",
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Отобразилаcь страница Авторизации",
+      "start": 1679301793461,
+      "stop": 1679301793461,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Главное меню",
+      "start": 1679301796626,
+      "stop": 1679301796626,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Новости на главной странице мобильного приложения",
+      "start": 1679301799359,
+      "stop": 1679301799359,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Фильтровать Новости",
+      "start": 1679301799991,
+      "stop": 1679301799991,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку Фильтровать Новости",
+      "start": 1679301800396,
+      "stop": 1679301800396,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Указать диапазон дат - начальная дата",
+      "start": 1679301800674,
+      "stop": 1679301800674,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на кнопку ОК",
+      "start": 1679301801341,
+      "stop": 1679301801341,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Указать диапазон дат - конечная дата",
+      "start": 1679301801757,
+      "stop": 1679301801757,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Выбрать категорию для фильтрации новостей",
+      "start": 1679301801768,
+      "stop": 1679301801768,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "0b451825-662c-4c56-a448-ec1e8817bd3d",
+  "historyId": "4ba12917c12c5075a9908050298a0ff2",
+  "fullName": "ru.netology.qa.tests.NewsTest.filteringNewsCertainPeriodTime",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.netology.qa.tests"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.netology.qa.tests.NewsTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "filteringNewsCertainPeriodTime"
+    },
+    {
+      "name": "suite",
+      "value": "ru.netology.qa.tests.NewsTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "story",
+      "value": "TC - 52"
+    },
+    {
+      "name": "epic",
+      "value": "Тест-кейсы для проведения функционального тестирования вкладки Новости мобильного приложения Мобильный хоспис"
+    }
+  ]
+}

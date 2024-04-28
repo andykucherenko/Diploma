@@ -1,0 +1,125 @@
+{
+    "name": "transitionPrivacyPolicy",
+    "start": 1679301183092,
+    "stop": 1679301194087,
+    "stage": "finished",
+    "description": "Просмотр ссылки Политика конфиденциальности во вкладке О приложении (Позитивный)",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Отобразилаcь страница Авторизации",
+            "start": 1679301186770,
+            "stop": 1679301186770,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку Главное меню",
+            "start": 1679301190136,
+            "stop": 1679301190136,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на кнопку О приложении",
+            "start": 1679301192574,
+            "stop": 1679301192574,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать на ссылку Политика конфиденциальности",
+            "start": 1679301192871,
+            "stop": 1679301192871,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "f5ae4cac-c85e-45cc-9260-8667b6503789",
+    "historyId": "fdc216cbc6fc12625307b5725821ab1c",
+    "fullName": "ru.netology.qa.tests.AboutTest.transitionPrivacyPolicy",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.netology.qa.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.netology.qa.tests.AboutTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "transitionPrivacyPolicy"
+        },
+        {
+            "name": "suite",
+            "value": "ru.netology.qa.tests.AboutTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(716)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC - 74"
+        },
+        {
+            "name": "epic",
+            "value": "Тест-кейсы для проведения функционального тестирования вкладки О приложении"
+        }
+    ]
+}
