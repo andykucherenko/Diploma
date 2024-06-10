@@ -1,0 +1,53 @@
+{
+    "name": "Клик по кнопке отмены фильтрации возвращает на прошлую страницу",
+    "start": 1715596005404,
+    "stop": 1715596009947,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "a47c35b3-3d5f-4db4-8689-82693a9ed6d0",
+    "historyId": "8469c4c5be6c73aec5676c6c9f3e38da",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.FilterNewsPageTest.test_click_cancel_filter",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "test_click_cancel_filter"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2083)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Видимость основных элементов на странице",
+    "start": 1715595974823,
+    "stop": 1715595982667,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9eacf04a-a1a6-4e0d-90c3-2279a6148baa",
+    "historyId": "749e1098e5a63b515c9610c222281461",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ControlPanelPageTests.test_displayed_main_elements_on_the_page",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ControlPanelPageTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "test_displayed_main_elements_on_the_page"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ControlPanelPageTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2083)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

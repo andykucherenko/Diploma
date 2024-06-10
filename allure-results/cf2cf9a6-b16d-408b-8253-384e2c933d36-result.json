@@ -1,0 +1,53 @@
+{
+    "name": "Перехода по второй ссылке - terms_of_use",
+    "start": 1715595938242,
+    "stop": 1715595943347,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "cf2cf9a6-b16d-408b-8253-384e2c933d36",
+    "historyId": "2a2393cc0a2e9829c79f52e26551c93",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutPageTests.test_open_page_with_terms_of_use",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "test_open_page_with_terms_of_use"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2083)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

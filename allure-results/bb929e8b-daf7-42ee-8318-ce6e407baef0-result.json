@@ -1,0 +1,53 @@
+{
+    "name": "Переход на страницу с цитатами и видимость основных элементов",
+    "start": 1715596066725,
+    "stop": 1715596070422,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "bb929e8b-daf7-42ee-8318-ce6e407baef0",
+    "historyId": "fae6514b32609961512047fea5e7f69f",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.QuotesPageTests.test_quotes_page_navigation_and_visibility",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.QuotesPageTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "test_quotes_page_navigation_and_visibility"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.QuotesPageTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2083)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

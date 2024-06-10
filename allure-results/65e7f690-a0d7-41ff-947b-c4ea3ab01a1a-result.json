@@ -1,0 +1,53 @@
+{
+    "name": "Авторизация с пустым логином и паролем",
+    "start": 1715595966405,
+    "stop": 1715595969949,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "65e7f690-a0d7-41ff-947b-c4ea3ab01a1a",
+    "historyId": "e57831182e7999038a0273eff1b0cddb",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTests.test_auth_with_empty_login_and_password",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "test_auth_with_empty_login_and_password"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2083)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

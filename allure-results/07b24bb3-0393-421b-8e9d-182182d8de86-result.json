@@ -1,0 +1,53 @@
+{
+    "name": "Клик по фильтрации без ввода фильтров возвращает на страницу всех новостей",
+    "start": 1715596014366,
+    "stop": 1715596018982,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "07b24bb3-0393-421b-8e9d-182182d8de86",
+    "historyId": "16610de7f70d2361059e54c24985b9e4",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.FilterNewsPageTest.test_click_filter_without_choice_filters",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "test_click_filter_without_choice_filters"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.FilterNewsPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2083)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

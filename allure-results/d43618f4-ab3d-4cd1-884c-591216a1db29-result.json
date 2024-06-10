@@ -1,0 +1,53 @@
+{
+    "name": "Отображение элементов на главной странице и изначального состояния блока новостей",
+    "start": 1715596036444,
+    "stop": 1715596039786,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "d43618f4-ab3d-4cd1-884c-591216a1db29",
+    "historyId": "1c6499471c782c7ea8a19e838a569aed",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.MainPageTests.test_displayed_main_elements_on_the_page",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainPageTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "test_displayed_main_elements_on_the_page"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainPageTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2083)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
