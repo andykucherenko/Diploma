@@ -22,5 +22,5 @@ Steps:
 
 ## Процедура просмотра отчета allure:
 Для просмотра отчета allure:
-1. Распаковать архив allure-results.zip
+1. Распаковать архив allure-results.rar
 2. В терминале выполнить команду allure serve
